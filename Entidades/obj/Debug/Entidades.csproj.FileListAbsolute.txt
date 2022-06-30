@@ -1,0 +1,6 @@
+C:\Users\palos\source\repos\proyectoProductoPrgm\Entidades\bin\Debug\Entidades.dll
+C:\Users\palos\source\repos\proyectoProductoPrgm\Entidades\bin\Debug\Entidades.pdb
+C:\Users\palos\source\repos\proyectoProductoPrgm\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\palos\source\repos\proyectoProductoPrgm\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\palos\source\repos\proyectoProductoPrgm\Entidades\obj\Debug\Entidades.dll
+C:\Users\palos\source\repos\proyectoProductoPrgm\Entidades\obj\Debug\Entidades.pdb
