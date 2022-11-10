@@ -2,6 +2,31 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "CapaDatos/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CapaDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaDatos.dll": {}
+        }
+      },
+      "CapaNegocios/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CapaDatos": "1.0.0",
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CapaNegocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaNegocios.dll": {}
+        }
+      },
       "Entidades/1.0.0": {
         "type": "project",
         "compile": {
@@ -14,6 +39,16 @@
     }
   },
   "libraries": {
+    "CapaDatos/1.0.0": {
+      "type": "project",
+      "path": "../CapaDatos/CapaDatos.csproj",
+      "msbuildProject": "../CapaDatos/CapaDatos.csproj"
+    },
+    "CapaNegocios/1.0.0": {
+      "type": "project",
+      "path": "../CapaNegocios/CapaNegocios.csproj",
+      "msbuildProject": "../CapaNegocios/CapaNegocios.csproj"
+    },
     "Entidades/1.0.0": {
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
@@ -22,6 +57,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "CapaNegocios >= 1.0.0",
       "Entidades >= 1.0.0"
     ]
   },
@@ -52,6 +88,9 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
+            "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj": {
+              "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj"
+            },
             "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj"
             }

@@ -8,10 +8,28 @@
     ".NETCoreApp,Version=v6.0": {
       "proyectoProductoPrgm/1.0.0": {
         "dependencies": {
+          "CapaNegocios": "1.0.0",
           "Entidades": "1.0.0"
         },
         "runtime": {
           "proyectoProductoPrgm.dll": {}
+        }
+      },
+      "CapaDatos/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CapaDatos.dll": {}
+        }
+      },
+      "CapaNegocios/1.0.0": {
+        "dependencies": {
+          "CapaDatos": "1.0.0",
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "CapaNegocios.dll": {}
         }
       },
       "Entidades/1.0.0": {
@@ -23,6 +41,16 @@
   },
   "libraries": {
     "proyectoProductoPrgm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaNegocios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -3,8 +3,12 @@ C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\proyectoProductoPrgm.runtimeconfig.json
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\proyectoProductoPrgm.dll
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\proyectoProductoPrgm.pdb
+C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\CapaNegocios.dll
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\CapaNegocios.pdb
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\bin\Debug\net6.0-windows\CapaDatos.pdb
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\obj\Debug\net6.0-windows\proyectoProductoPrgm.csproj.AssemblyReference.cache
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\obj\Debug\net6.0-windows\proyectoProductoPrgm.FormProductos.resources
 C:\Users\palos\source\repos\proyectoProductoPrgm\proyectoProductoPrgm\obj\Debug\net6.0-windows\proyectoProductoPrgm.csproj.GenerateResource.cache

@@ -4,6 +4,47 @@
     "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\proyectoProductoPrgm\\proyectoProductoPrgm.csproj": {}
   },
   "projects": {
+    "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaDatos\\CapaDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj",
+        "projectName": "CapaNegocios",
+        "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj": {
       "restore": {
         "projectUniqueName": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj",
@@ -43,6 +84,9 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
+              "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj": {
+                "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\CapaNegocios\\CapaNegocios.csproj"
+              },
               "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj": {
                 "projectPath": "C:\\Users\\palos\\source\\repos\\proyectoProductoPrgm\\Entidades\\Entidades.csproj"
               }
